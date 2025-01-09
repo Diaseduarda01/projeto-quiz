@@ -19,6 +19,8 @@ Este quiz desafia os jogadores com perguntas sobre Jurema Sagrada e adiciona um 
 
 ### **Tela Inicial**  
 ![Captura de tela 2025-01-09 192148](https://github.com/user-attachments/assets/995f6286-9e59-4f8d-a587-cdde41de8bee)
+![Captura de tela 2025-01-09 192456](https://github.com/user-attachments/assets/5192553b-ea0e-48a4-872a-2cc3c96aa1c8)
+
 
 ### **Pergunta com Temporizador**  
 ![Captura de tela 2025-01-09 192230](https://github.com/user-attachments/assets/6d26af84-ace2-4727-ac2c-804afb089302)
@@ -27,7 +29,8 @@ Este quiz desafia os jogadores com perguntas sobre Jurema Sagrada e adiciona um 
  
 
 ### **Pontuação Final**  
-![Pontuação Final](https://github.com/user-attachments/assets/pontuacao-final.png)  
+![Captura de tela 2025-01-09 192601](https://github.com/user-attachments/assets/5316b6b1-0e8a-49c9-859c-1f6b45701e30)
+
 
 ---
 
