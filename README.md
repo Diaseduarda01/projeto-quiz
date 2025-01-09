@@ -18,10 +18,13 @@ Este quiz desafia os jogadores com perguntas sobre Jurema Sagrada e adiciona um 
 ## 📷 **Visualizações**  
 
 ### **Tela Inicial**  
-![Tela Inicial](https://github.com/user-attachments/assets/tela-inicial.png)  
+![Captura de tela 2025-01-09 192148](https://github.com/user-attachments/assets/995f6286-9e59-4f8d-a587-cdde41de8bee)
 
 ### **Pergunta com Temporizador**  
-![Pergunta Temporizador](https://github.com/user-attachments/assets/pergunta-com-temporizador.png)  
+![Captura de tela 2025-01-09 192230](https://github.com/user-attachments/assets/6d26af84-ace2-4727-ac2c-804afb089302)
+![Captura de tela 2025-01-09 192239](https://github.com/user-attachments/assets/7a3f274e-b920-4dcc-b33a-bf93acc65d87)
+
+ 
 
 ### **Pontuação Final**  
 ![Pontuação Final](https://github.com/user-attachments/assets/pontuacao-final.png)  
@@ -41,6 +44,3 @@ Contribuições são bem-vindas! Caso tenha sugestões de novas funcionalidades 
 ### 🧩 **Teste seus conhecimentos agora mesmo e divirta-se!**  
 🎉 **[Jogue Agora!](https://diaseduarda01.github.io/projeto-quiz/)**  
 
---- 
-
-Se precisar de personalizações ou tiver imagens para adicionar ao README, basta informar! 😊
