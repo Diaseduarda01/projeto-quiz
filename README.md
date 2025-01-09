@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Caso tenha sugestões de novas funcionalidades 
 ---
 
 ### 🧩 **Teste seus conhecimentos agora mesmo e divirta-se!**  
-🎉 **[Jogue Agora!]([https://github.com/seu-usuario/seu-repositorio](https://diaseduarda01.github.io/projeto-quiz/))**  
+🎉 **[Jogue Agora!](https://diaseduarda01.github.io/projeto-quiz/)**  
 
 --- 
 
